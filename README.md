@@ -11,6 +11,10 @@
 - [The Open Product Lifecycle Framework &lpar;OPLF&rpar;](https://santosomar.medium.com/the-open-product-lifecycle-framework-oplf-5462eba91084?source=rss-fc39e28d7e52------2)
 - [Establishing Standardized End-of-Life and End-of-Support Programs for  Software and Hardware](https://santosomar.medium.com/establishing-standardized-end-of-life-and-end-of-support-programs-for-software-and-hardware-e3e231898e02?source=rss-fc39e28d7e52------2)
 - [GPT-4, ChatGPT, and Your Incident Response Mentor](https://santosomar.medium.com/gpt-4-chatgpt-and-your-incident-response-mentor-57ee0df0ef09?source=rss-fc39e28d7e52------2)
+- [Discovering and Retrieving Software Transparency and Vulnerability Information: The Future of SBOM…](https://santosomar.medium.com/discovering-and-retrieving-software-transparency-and-vulnerability-information-the-future-sbom-90f997fba311?source=rss-fc39e28d7e52------2)
+- [CSAF and .well-known](https://santosomar.medium.com/csaf-and-well-known-23fed3f4f60e?source=rss-fc39e28d7e52------2)
+- [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://santosomar.medium.com/using-csaf-to-respond-to-supply-chain-vulnerabilities-at-large-scale-220a534bc207?source=rss-fc39e28d7e52------2)
+- [Vulnerability Exploitability eXchange &lpar;VEX&rpar; CSAF Examples](https://santosomar.medium.com/vulnerability-exploitability-exchange-vex-csaf-examples-9584e9897cf6?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
