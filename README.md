@@ -2,7 +2,7 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosomar&layout=donut" />
 
 
-<br>
+<br><br>
 
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
