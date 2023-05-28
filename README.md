@@ -2,8 +2,8 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosomar&layout=donut" />
 
 
-<br><br>
-<p>
+  <p>  </p>
+
 ## My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Exploring AI Security Tools and Frameworks: Navigating Troubled Waters](https://santosomar.medium.com/exploring-ai-security-tools-and-frameworks-navigating-troubled-waters-3db60d1ff366?source=rss-fc39e28d7e52------2)
@@ -13,4 +13,4 @@
 - [GPT-4, ChatGPT, and Your Incident Response Mentor](https://santosomar.medium.com/gpt-4-chatgpt-and-your-incident-response-mentor-57ee0df0ef09?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
-  </p>
+
