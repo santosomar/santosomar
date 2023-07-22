@@ -16,6 +16,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Keeping Pace: Resources for Staying Informed About Emerging Trends in Cybersecurity and AI](https://santosomar.medium.com/keeping-pace-resources-for-staying-informed-about-emerging-trends-in-cybersecurity-and-ai-8b975069f8f4?source=rss-fc39e28d7e52------2)
 - [Exploring AI Security Tools and Frameworks: Navigating Troubled Waters](https://santosomar.medium.com/exploring-ai-security-tools-and-frameworks-navigating-troubled-waters-3db60d1ff366?source=rss-fc39e28d7e52------2)
 - [A Comparative Overview of SELinux, AppArmor, Yama, TOMOYO Linux, and Smack](https://santosomar.medium.com/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf?source=rss-fc39e28d7e52------2)
 - [The Open Product Lifecycle Framework &lpar;OPLF&rpar;](https://santosomar.medium.com/the-open-product-lifecycle-framework-oplf-5462eba91084?source=rss-fc39e28d7e52------2)
@@ -24,7 +25,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [Discovering and Retrieving Software Transparency and Vulnerability Information: The Future of SBOMâ€¦](https://santosomar.medium.com/discovering-and-retrieving-software-transparency-and-vulnerability-information-the-future-sbom-90f997fba311?source=rss-fc39e28d7e52------2)
 - [CSAF andÂ .well-known](https://santosomar.medium.com/csaf-and-well-known-23fed3f4f60e?source=rss-fc39e28d7e52------2)
 - [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://santosomar.medium.com/using-csaf-to-respond-to-supply-chain-vulnerabilities-at-large-scale-220a534bc207?source=rss-fc39e28d7e52------2)
-- [Vulnerability Exploitability eXchange &lpar;VEX&rpar; CSAF Examples](https://santosomar.medium.com/vulnerability-exploitability-exchange-vex-csaf-examples-9584e9897cf6?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
