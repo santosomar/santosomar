@@ -16,6 +16,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DEF CON Red Team Village: A Deep Dive into This Yearâ€™s Highlights](https://santosomar.medium.com/def-con-red-team-village-a-deep-dive-into-this-years-highlights-7480338fd611?source=rss-fc39e28d7e52------2)
 - [The Network Resilience Coalition: A Unified Effort to Strengthen Global Cybersecurity](https://santosomar.medium.com/the-network-resilience-coalition-a-unified-effort-to-strengthen-global-cybersecurity-812d2ebff8d6?source=rss-fc39e28d7e52------2)
 - [Using LangChain to Simplify the Creation of Applications using AI Large Language Models &lpar;LLMs&rpar;](https://santosomar.medium.com/using-langchain-to-simplify-the-creation-of-applications-using-ai-large-language-models-llms-5ca8b6a0c260?source=rss-fc39e28d7e52------2)
 - [QLoRa: A Great Method for Efficiently Fine-Tuning Large Language Models &lpar;LLMs&rpar;](https://santosomar.medium.com/qlora-a-great-method-for-efficiently-fine-tuning-large-language-models-llms-1f332cf37e96?source=rss-fc39e28d7e52------2)
@@ -25,7 +26,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [The Open Product Lifecycle Framework &lpar;OPLF&rpar;](https://santosomar.medium.com/the-open-product-lifecycle-framework-oplf-5462eba91084?source=rss-fc39e28d7e52------2)
 - [Establishing Standardized End-of-Life and End-of-Support Programs for  Software and Hardware](https://santosomar.medium.com/establishing-standardized-end-of-life-and-end-of-support-programs-for-software-and-hardware-e3e231898e02?source=rss-fc39e28d7e52------2)
 - [GPT-4, ChatGPT, and Your Incident Response Mentor](https://santosomar.medium.com/gpt-4-chatgpt-and-your-incident-response-mentor-57ee0df0ef09?source=rss-fc39e28d7e52------2)
-- [Discovering and Retrieving Software Transparency and Vulnerability Information: The Future of SBOMâ€¦](https://santosomar.medium.com/discovering-and-retrieving-software-transparency-and-vulnerability-information-the-future-sbom-90f997fba311?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
