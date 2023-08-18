@@ -1,15 +1,11 @@
 ## Hi, there!
-I'm a self-proclaimed nerd in the whimsical world of 🛡️ cybersecurity, tirelessly working to keep digital boogeymen away from our critical infrastructures. Picture me as the person with a horrible mohawk co-leading the DEF CON Red Team Village. I also play chair in the court of the Common Security Advisory Framework (CSAF) standard technical committee, among several other industry efforts.
+I'm a self-proclaimed nerd in the whimsical world of 🛡️ cybersecurity, tirelessly working to keep digital boogeymen away from our critical infrastructures. Picture me as the person with a horrible mohawk co-leading the DEF CON Red Team Village. I also play chair in the court of the Common Security Advisory Framework (CSAF) standard technical committee, among several other industry efforts. I am in the OASIS Open board of directors.
 
 Collaboration? You bet! I work with an entourage of groups, like the Forum of Incident Response and Security Teams (FIRST), ISACs, and law enforcement agencies, as we huddle together like a digital Avengers team to save the world, one secured network at a time. Well, at least that's the goal.
 
-I have a passion for ethical hacking, vulnerability research, and incident response. I help organizations pull up their digital socks and dodge those pesky threats that keep popping up like a game of cybersecurity whack-a-mole. I've played a role in patching up the cyber defenses of all sorts of folks, from buttoned-up business tycoons and bespectacled academics to super-serious government agencies.
+I have a passion for AI, ethical hacking, vulnerability research, and incident response. I help organizations pull up their digital socks and dodge those pesky threats that keep popping up like a game of cybersecurity whack-a-mole. I've played a role in patching up the cyber defenses of all sorts of folks, from buttoned-up business tycoons and bespectacled academics to super-serious government agencies.
 
-My claim to fame? More than twenty five books, video courses, white papers, and tech articles where I bore people about all things cyber. At Cisco's Product Security Incident Response Team (PSIRT), I'm a principal engineer, leading a talented team of digital Sherlock Holmeses while nurturing the cyber Padawans of tomorrow. My life's mission? Ensuring the only cookies 🍪 you need to worry about are the ones in your jar and not in your browser. 
-
-By day, I'm your average keyboard warrior, waging my battles in the ever-evolving world of cybersecurity. By night, I'm... well, still that, but also a champion snack consumer and occasional wood worker. 
-
-Don't let my quirky sense of humor fool you though, I take my role as a mentor very seriously. Just think of me as the Mr. Miyagi of cybersecurity, training the next generation to 'wax on, wax off' their way through hacking attacks and vulnerabilities. After all, cybersecurity isn't just my job, it's an adventure. And as long as there are bytes to protect and exploits to thwart, you'll find me there, lightsaber in hand (they are pretty expensive at Disney), ready to charge into the fray. 
+My claim to fame? More than twenty five books, video courses, white papers, and tech articles where I bore people about all things cyber. At Cisco's Product Security Incident Response Team (PSIRT), I'm a principal engineer, leading a talented team of digital Sherlock Holmeses while mentoring the cyber Padawans of tomorrow. My life's mission? Ensuring the only cookies 🍪 you need to worry about are the ones in your jar and not in your browser. 
 
 Remember, in this wild world of zeroes and ones, always keep your code clean 💻, your tech strong, and your coffee stronger!
 
