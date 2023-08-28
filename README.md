@@ -12,6 +12,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DEF CON 31 WebSploit Labs Challenge Walkthrough](https://santosomar.medium.com/def-con-31-websploit-labs-challenge-walkthrough-a04765456be6?source=rss-fc39e28d7e52------2)
 - [Using Gorilla: Pioneering API Interactions in Large Language Models for Cybersecurity Operations](https://santosomar.medium.com/using-gorilla-pioneering-api-interactions-in-large-language-models-for-cybersecurity-operations-252ce018be6b?source=rss-fc39e28d7e52------2)
 - [DEF CON Red Team Village: A Deep Dive into This Yearâ€™s Highlights](https://santosomar.medium.com/def-con-red-team-village-a-deep-dive-into-this-years-highlights-7480338fd611?source=rss-fc39e28d7e52------2)
 - [The Network Resilience Coalition: A Unified Effort to Strengthen Global Cybersecurity](https://santosomar.medium.com/the-network-resilience-coalition-a-unified-effort-to-strengthen-global-cybersecurity-812d2ebff8d6?source=rss-fc39e28d7e52------2)
@@ -21,7 +22,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [Exploring AI Security Tools and Frameworks: Navigating Troubled Waters](https://santosomar.medium.com/exploring-ai-security-tools-and-frameworks-navigating-troubled-waters-3db60d1ff366?source=rss-fc39e28d7e52------2)
 - [A Comparative Overview of SELinux, AppArmor, Yama, TOMOYO Linux, and Smack](https://santosomar.medium.com/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf?source=rss-fc39e28d7e52------2)
 - [The Open Product Lifecycle Framework &lpar;OPLF&rpar;](https://santosomar.medium.com/the-open-product-lifecycle-framework-oplf-5462eba91084?source=rss-fc39e28d7e52------2)
-- [Establishing Standardized End-of-Life and End-of-Support Programs for  Software and Hardware](https://santosomar.medium.com/establishing-standardized-end-of-life-and-end-of-support-programs-for-software-and-hardware-e3e231898e02?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
