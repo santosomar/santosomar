@@ -12,6 +12,8 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Leveraging Open-Interpreter: AI-Driven Automated Coding with Code Llama and GPT-4](https://santosomar.medium.com/leveraging-open-interpreter-ai-driven-automated-coding-with-code-llama-and-gpt-4-5361b944fa0?source=rss-fc39e28d7e52------2)
+- [Introducing CertSPY](https://santosomar.medium.com/introducing-certspy-89da08beca25?source=rss-fc39e28d7e52------2)
 - [DEF CON 31 WebSploit Labs Challenge Walkthrough](https://santosomar.medium.com/def-con-31-websploit-labs-challenge-walkthrough-a04765456be6?source=rss-fc39e28d7e52------2)
 - [Using Gorilla: Pioneering API Interactions in Large Language Models for Cybersecurity Operations](https://santosomar.medium.com/using-gorilla-pioneering-api-interactions-in-large-language-models-for-cybersecurity-operations-252ce018be6b?source=rss-fc39e28d7e52------2)
 - [DEF CON Red Team Village: A Deep Dive into This Yearâ€™s Highlights](https://santosomar.medium.com/def-con-red-team-village-a-deep-dive-into-this-years-highlights-7480338fd611?source=rss-fc39e28d7e52------2)
@@ -20,8 +22,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [QLoRa: A Great Method for Efficiently Fine-Tuning Large Language Models &lpar;LLMs&rpar;](https://santosomar.medium.com/qlora-a-great-method-for-efficiently-fine-tuning-large-language-models-llms-1f332cf37e96?source=rss-fc39e28d7e52------2)
 - [Keeping Pace: Resources for Staying Informed About Emerging Trends in Cybersecurity and AI](https://santosomar.medium.com/keeping-pace-resources-for-staying-informed-about-emerging-trends-in-cybersecurity-and-ai-8b975069f8f4?source=rss-fc39e28d7e52------2)
 - [Exploring AI Security Tools and Frameworks: Navigating Troubled Waters](https://santosomar.medium.com/exploring-ai-security-tools-and-frameworks-navigating-troubled-waters-3db60d1ff366?source=rss-fc39e28d7e52------2)
-- [A Comparative Overview of SELinux, AppArmor, Yama, TOMOYO Linux, and Smack](https://santosomar.medium.com/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf?source=rss-fc39e28d7e52------2)
-- [The Open Product Lifecycle Framework &lpar;OPLF&rpar;](https://santosomar.medium.com/the-open-product-lifecycle-framework-oplf-5462eba91084?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
