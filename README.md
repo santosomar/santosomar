@@ -12,6 +12,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI-Generated Content: Quality, Risks, and Recommendations](https://santosomar.medium.com/the-future-of-ai-generated-content-quality-risks-and-recommendations-48c35b9a1eb5?source=rss-fc39e28d7e52------2)
 - [Introducing the EPSS Checker: Your Handy Simple Tool for Fetching CVE EPSS Scores](https://santosomar.medium.com/introducing-the-epss-checker-your-handy-simple-tool-for-fetching-cve-epss-scores-5e5eae3e7c09?source=rss-fc39e28d7e52------2)
 - [Leveraging Open-Interpreter: AI-Driven Automated Coding with Code Llama and GPT-4](https://santosomar.medium.com/leveraging-open-interpreter-ai-driven-automated-coding-with-code-llama-and-gpt-4-5361b944fa0?source=rss-fc39e28d7e52------2)
 - [Introducing CertSPY](https://santosomar.medium.com/introducing-certspy-89da08beca25?source=rss-fc39e28d7e52------2)
@@ -21,7 +22,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [The Network Resilience Coalition: A Unified Effort to Strengthen Global Cybersecurity](https://santosomar.medium.com/the-network-resilience-coalition-a-unified-effort-to-strengthen-global-cybersecurity-812d2ebff8d6?source=rss-fc39e28d7e52------2)
 - [Using LangChain to Simplify the Creation of Applications using AI Large Language Models &lpar;LLMs&rpar;](https://santosomar.medium.com/using-langchain-to-simplify-the-creation-of-applications-using-ai-large-language-models-llms-5ca8b6a0c260?source=rss-fc39e28d7e52------2)
 - [QLoRa: A Great Method for Efficiently Fine-Tuning Large Language Models &lpar;LLMs&rpar;](https://santosomar.medium.com/qlora-a-great-method-for-efficiently-fine-tuning-large-language-models-llms-1f332cf37e96?source=rss-fc39e28d7e52------2)
-- [Keeping Pace: Resources for Staying Informed About Emerging Trends in Cybersecurity and AI](https://santosomar.medium.com/keeping-pace-resources-for-staying-informed-about-emerging-trends-in-cybersecurity-and-ai-8b975069f8f4?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
