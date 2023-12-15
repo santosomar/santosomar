@@ -12,6 +12,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://santosomar.medium.com/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae?source=rss-fc39e28d7e52------2)
 - [LangChain is Everywhere](https://santosomar.medium.com/langchain-is-everywhere-5415613390f1?source=rss-fc39e28d7e52------2)
 - [Discussing the Future of AI Security: Join Us at the AI Security Summit on November 30th](https://santosomar.medium.com/discussing-the-future-of-ai-security-join-us-at-the-ai-security-summit-on-november-30th-8513d902697d?source=rss-fc39e28d7e52------2)
 - [Artificial Intelligence Bill-of-Materials &lpar;AI BOMs&rpar;: Ensuring AI Transparency and Traceability](https://santosomar.medium.com/artificial-intelligence-bill-of-materials-ai-boms-ensuring-ai-transparency-and-traceability-82322643bd2a?source=rss-fc39e28d7e52------2)
@@ -21,7 +22,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [Introducing CertSPY](https://santosomar.medium.com/introducing-certspy-89da08beca25?source=rss-fc39e28d7e52------2)
 - [DEF CON 31 WebSploit Labs Challenge Walkthrough](https://santosomar.medium.com/def-con-31-websploit-labs-challenge-walkthrough-a04765456be6?source=rss-fc39e28d7e52------2)
 - [Using Gorilla: Pioneering API Interactions in Large Language Models for Cybersecurity Operations](https://santosomar.medium.com/using-gorilla-pioneering-api-interactions-in-large-language-models-for-cybersecurity-operations-252ce018be6b?source=rss-fc39e28d7e52------2)
-- [DEF CON Red Team Village: A Deep Dive into This Yearâ€™s Highlights](https://santosomar.medium.com/def-con-red-team-village-a-deep-dive-into-this-years-highlights-7480338fd611?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
