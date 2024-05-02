@@ -12,6 +12,7 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 
 ## ðŸ“š My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Vulnerability Databases: Distinguishing Between Security Vulnerabilities and Ethical Concerns](https://santosomar.medium.com/ai-vulnerability-databases-distinguishing-between-security-vulnerabilities-and-ethical-concerns-7c190a3d9af2?source=rss-fc39e28d7e52------2)
 - [A Quick Introduction to LangGraph: Enhancing LLM Applications with Cyclic Workflows](https://santosomar.medium.com/a-quick-introduction-to-langgraph-enhancing-llm-applications-with-cyclic-workflows-145f61f38747?source=rss-fc39e28d7e52------2)
 - [Numerous Cybersecurity GPTs](https://santosomar.medium.com/numerous-cybersecurity-gpts-c8e89d454444?source=rss-fc39e28d7e52------2)
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://santosomar.medium.com/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae?source=rss-fc39e28d7e52------2)
@@ -21,7 +22,6 @@ Remember, in this wild world of zeroes and ones, always keep your code clean ðŸ’
 - [The Future of AI-Generated Content: Quality, Risks, and Recommendations](https://santosomar.medium.com/the-future-of-ai-generated-content-quality-risks-and-recommendations-48c35b9a1eb5?source=rss-fc39e28d7e52------2)
 - [Introducing the EPSS Checker: Your Handy Simple Tool for Fetching CVE EPSS Scores](https://santosomar.medium.com/introducing-the-epss-checker-your-handy-simple-tool-for-fetching-cve-epss-scores-5e5eae3e7c09?source=rss-fc39e28d7e52------2)
 - [Leveraging Open-Interpreter: AI-Driven Automated Coding with Code Llama and GPT-4](https://santosomar.medium.com/leveraging-open-interpreter-ai-driven-automated-coding-with-code-llama-and-gpt-4-5361b944fa0?source=rss-fc39e28d7e52------2)
-- [Introducing CertSPY](https://santosomar.medium.com/introducing-certspy-89da08beca25?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
