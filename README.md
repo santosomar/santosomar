@@ -1,16 +1,9 @@
-## Hi, there!
-I'm a self-proclaimed nerd in the whimsical world of 🛡️ cybersecurity, tirelessly working to keep digital boogeymen away from our critical infrastructures. Picture me as the person with a horrible mohawk co-leading the DEF CON Red Team Village. I also play chair in the court of the Common Security Advisory Framework (CSAF) standard technical committee, among several other industry efforts. I am in the OASIS Open board of directors.
+Omar Santos is a Distinguished Engineer at Cisco focusing on artificial intelligence (AI) security, cybersecurity research, incident response, and vulnerability disclosure. He is a board member of the OASIS Open standards organization and the founder of OpenEoX. Omar's collaborative efforts extend to numerous organizations, including the Forum of Incident Response and Security Teams (FIRST) and the Industry Consortium for Advancement of Security on the Internet (ICASI). Omar is the co-chair of the FIRST PSIRT Special Interest Group (SIG). Omar is the lead of the DEF CON Red Team Village and the chair of the Common Security Advisory Framework (CSAF) technical committee.
 
-Collaboration? You bet! I work with an entourage of groups, like the Forum of Incident Response and Security Teams (FIRST), ISACs, and law enforcement agencies, as we huddle together like a digital Avengers team to save the world, one secured network at a time. Well, at least that's the goal.
-
-I have a passion for AI, ethical hacking, vulnerability research, and incident response. I help organizations pull up their digital socks and dodge those pesky threats that keep popping up like a game of cybersecurity whack-a-mole. I've played a role in patching up the cyber defenses of all sorts of folks, from buttoned-up business tycoons and bespectacled academics to super-serious government agencies.
-
-My claim to fame? More than twenty five books, video courses, white papers, and tech articles where I bore people about all things cyber. At Cisco's Product Security Incident Response Team (PSIRT), I'm a principal engineer, leading a talented team of digital Sherlock Holmeses while mentoring the cyber Padawans of tomorrow. My life's mission? Ensuring the only cookies 🍪 you need to worry about are the ones in your jar and not in your browser. 
-
-Remember, in this wild world of zeroes and ones, always keep your code clean 💻, your tech strong, and your coffee stronger!
+Omar is the author of over 25 books, 21 video courses, and over 50 academic research papers. Omar is a renowned expert in ethical hacking, vulnerability research, incident response, and AI security. He employs his deep understanding of these disciplines to help organizations stay ahead of emerging threats. His dedication to cybersecurity has made a significant impact on technology standards, businesses, academic institutions, government agencies, and other entities striving to improve their cybersecurity programs. Prior to Cisco, Omar served in the United States Marines focusing on the deployment, testing, and maintenance of Command, Control, Communications, Computer and Intelligence (C4I) systems.
 
 
-## 📚 My Latest Blog Posts
+## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Few Insights on Securing AI and Retrieval Augmented Generation &lpar;RAG&rpar; Implementations](https://santosomar.medium.com/a-few-insights-on-securing-ai-and-retrieval-augmented-generation-rag-implementations-736b75b8bb3c?source=rss-fc39e28d7e52------2)
 - [AI Vulnerability Databases: Distinguishing Between Security Vulnerabilities and Ethical Concerns](https://santosomar.medium.com/ai-vulnerability-databases-distinguishing-between-security-vulnerabilities-and-ethical-concerns-7c190a3d9af2?source=rss-fc39e28d7e52------2)
