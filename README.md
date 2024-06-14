@@ -5,6 +5,7 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Frameworks](https://santosomar.medium.com/ai-agent-frameworks-05ed7a0ab97d?source=rss-fc39e28d7e52------2)
 - [An Overview of Searchable Encryption, Homomorphic Encryption, and Multiparty Computation in AI…](https://santosomar.medium.com/an-overview-of-searchable-encryption-homomorphic-encryption-and-multiparty-computation-in-ai-8cb593e4a441?source=rss-fc39e28d7e52------2)
 - [A Few Insights on Securing AI and Retrieval Augmented Generation &lpar;RAG&rpar; Implementations](https://santosomar.medium.com/a-few-insights-on-securing-ai-and-retrieval-augmented-generation-rag-implementations-736b75b8bb3c?source=rss-fc39e28d7e52------2)
 - [AI Vulnerability Databases: Distinguishing Between Security Vulnerabilities and Ethical Concerns](https://santosomar.medium.com/ai-vulnerability-databases-distinguishing-between-security-vulnerabilities-and-ethical-concerns-7c190a3d9af2?source=rss-fc39e28d7e52------2)
@@ -14,7 +15,6 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 - [LangChain is Everywhere](https://santosomar.medium.com/langchain-is-everywhere-5415613390f1?source=rss-fc39e28d7e52------2)
 - [Discussing the Future of AI Security: Join Us at the AI Security Summit on November 30th](https://santosomar.medium.com/discussing-the-future-of-ai-security-join-us-at-the-ai-security-summit-on-november-30th-8513d902697d?source=rss-fc39e28d7e52------2)
 - [Artificial Intelligence Bill-of-Materials &lpar;AI BOMs&rpar;: Ensuring AI Transparency and Traceability](https://santosomar.medium.com/artificial-intelligence-bill-of-materials-ai-boms-ensuring-ai-transparency-and-traceability-82322643bd2a?source=rss-fc39e28d7e52------2)
-- [The Future of AI-Generated Content: Quality, Risks, and Recommendations](https://santosomar.medium.com/the-future-of-ai-generated-content-quality-risks-and-recommendations-48c35b9a1eb5?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
