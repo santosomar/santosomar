@@ -5,6 +5,7 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing RAG, RAG Fusion, with RAPTOR: Different AI Retrieval-Augmented Implementations](https://santosomar.medium.com/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c?source=rss-fc39e28d7e52------2)
 - [AI Agent Frameworks](https://santosomar.medium.com/ai-agent-frameworks-05ed7a0ab97d?source=rss-fc39e28d7e52------2)
 - [An Overview of Searchable Encryption, Homomorphic Encryption, and Multiparty Computation in AI…](https://santosomar.medium.com/an-overview-of-searchable-encryption-homomorphic-encryption-and-multiparty-computation-in-ai-8cb593e4a441?source=rss-fc39e28d7e52------2)
 - [A Few Insights on Securing AI and Retrieval Augmented Generation &lpar;RAG&rpar; Implementations](https://santosomar.medium.com/a-few-insights-on-securing-ai-and-retrieval-augmented-generation-rag-implementations-736b75b8bb3c?source=rss-fc39e28d7e52------2)
@@ -14,7 +15,6 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://santosomar.medium.com/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae?source=rss-fc39e28d7e52------2)
 - [LangChain is Everywhere](https://santosomar.medium.com/langchain-is-everywhere-5415613390f1?source=rss-fc39e28d7e52------2)
 - [Discussing the Future of AI Security: Join Us at the AI Security Summit on November 30th](https://santosomar.medium.com/discussing-the-future-of-ai-security-join-us-at-the-ai-security-summit-on-november-30th-8513d902697d?source=rss-fc39e28d7e52------2)
-- [Artificial Intelligence Bill-of-Materials &lpar;AI BOMs&rpar;: Ensuring AI Transparency and Traceability](https://santosomar.medium.com/artificial-intelligence-bill-of-materials-ai-boms-ensuring-ai-transparency-and-traceability-82322643bd2a?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
