@@ -5,6 +5,8 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [LangGraph Cloud is Pretty Impressive](https://santosomar.medium.com/langgraph-cloud-is-pretty-impressive-5e4a5db2089c?source=rss-fc39e28d7e52------2)
+- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; and CriticGPT](https://santosomar.medium.com/reinforcement-learning-from-human-feedback-rlhf-and-criticgpt-1e19a9fc6d2e?source=rss-fc39e28d7e52------2)
 - [Comparing RAG, RAG Fusion, with RAPTOR: Different AI Retrieval-Augmented Implementations](https://santosomar.medium.com/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c?source=rss-fc39e28d7e52------2)
 - [AI Agent Frameworks](https://santosomar.medium.com/ai-agent-frameworks-05ed7a0ab97d?source=rss-fc39e28d7e52------2)
 - [An Overview of Searchable Encryption, Homomorphic Encryption, and Multiparty Computation in AI…](https://santosomar.medium.com/an-overview-of-searchable-encryption-homomorphic-encryption-and-multiparty-computation-in-ai-8cb593e4a441?source=rss-fc39e28d7e52------2)
@@ -13,8 +15,6 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 - [A Quick Introduction to LangGraph: Enhancing LLM Applications with Cyclic Workflows](https://santosomar.medium.com/a-quick-introduction-to-langgraph-enhancing-llm-applications-with-cyclic-workflows-145f61f38747?source=rss-fc39e28d7e52------2)
 - [Numerous Cybersecurity GPTs](https://santosomar.medium.com/numerous-cybersecurity-gpts-c8e89d454444?source=rss-fc39e28d7e52------2)
 - [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://santosomar.medium.com/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae?source=rss-fc39e28d7e52------2)
-- [LangChain is Everywhere](https://santosomar.medium.com/langchain-is-everywhere-5415613390f1?source=rss-fc39e28d7e52------2)
-- [Discussing the Future of AI Security: Join Us at the AI Security Summit on November 30th](https://santosomar.medium.com/discussing-the-future-of-ai-security-join-us-at-the-ai-security-summit-on-november-30th-8513d902697d?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
