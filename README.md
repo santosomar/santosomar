@@ -5,6 +5,7 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is the Coalition for Secure AI &lpar;CoSAI&rpar;?](https://santosomar.medium.com/what-is-the-coalition-for-secure-ai-cosai-cf72ef67b601?source=rss-fc39e28d7e52------2)
 - [LangGraph Cloud is Pretty Impressive](https://santosomar.medium.com/langgraph-cloud-is-pretty-impressive-5e4a5db2089c?source=rss-fc39e28d7e52------2)
 - [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; and CriticGPT](https://santosomar.medium.com/reinforcement-learning-from-human-feedback-rlhf-and-criticgpt-1e19a9fc6d2e?source=rss-fc39e28d7e52------2)
 - [Comparing RAG, RAG Fusion, with RAPTOR: Different AI Retrieval-Augmented Implementations](https://santosomar.medium.com/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c?source=rss-fc39e28d7e52------2)
@@ -14,7 +15,6 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 - [AI Vulnerability Databases: Distinguishing Between Security Vulnerabilities and Ethical Concerns](https://santosomar.medium.com/ai-vulnerability-databases-distinguishing-between-security-vulnerabilities-and-ethical-concerns-7c190a3d9af2?source=rss-fc39e28d7e52------2)
 - [A Quick Introduction to LangGraph: Enhancing LLM Applications with Cyclic Workflows](https://santosomar.medium.com/a-quick-introduction-to-langgraph-enhancing-llm-applications-with-cyclic-workflows-145f61f38747?source=rss-fc39e28d7e52------2)
 - [Numerous Cybersecurity GPTs](https://santosomar.medium.com/numerous-cybersecurity-gpts-c8e89d454444?source=rss-fc39e28d7e52------2)
-- [Understanding Key AI Language Model Parameters: top_p, Temperature, num_beams, and do_sample](https://santosomar.medium.com/understanding-key-ai-language-model-parameters-top-p-temperature-num-beams-and-do-sample-9874bf3c89ae?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
