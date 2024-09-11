@@ -5,6 +5,7 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://santosomar.medium.com/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199?source=rss-fc39e28d7e52------2)
 - [Fine Tuning AI Models — the Easy Way](https://santosomar.medium.com/fine-tuning-ai-models-the-easy-way-4a2e7d00cdee?source=rss-fc39e28d7e52------2)
 - [What NIST’s Post-Quantum Cryptography Standards Bring to the Table — InformationWeek Podcast](https://santosomar.medium.com/what-nists-post-quantum-cryptography-standards-bring-to-the-table-informationweek-podcast-d399e22a0167?source=rss-fc39e28d7e52------2)
 - [Understanding the SPDX 3.0 AI BOM Support](https://santosomar.medium.com/understanding-the-spdx-3-0-ai-bom-support-7f3dbdd28345?source=rss-fc39e28d7e52------2)
@@ -14,7 +15,6 @@ Omar is the author of over 25 books, 21 video courses, and over 50 academic rese
 - [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; and CriticGPT](https://santosomar.medium.com/reinforcement-learning-from-human-feedback-rlhf-and-criticgpt-1e19a9fc6d2e?source=rss-fc39e28d7e52------2)
 - [Comparing RAG, RAG Fusion, with RAPTOR: Different AI Retrieval-Augmented Implementations](https://santosomar.medium.com/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c?source=rss-fc39e28d7e52------2)
 - [AI Agent Frameworks](https://santosomar.medium.com/ai-agent-frameworks-05ed7a0ab97d?source=rss-fc39e28d7e52------2)
-- [An Overview of Searchable Encryption, Homomorphic Encryption, and Multiparty Computation in AI…](https://santosomar.medium.com/an-overview-of-searchable-encryption-homomorphic-encryption-and-multiparty-computation-in-ai-8cb593e4a441?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
