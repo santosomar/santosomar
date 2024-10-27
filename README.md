@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using AI and YARA](https://santosomar.medium.com/using-ai-and-yara-e932a0f1a272?source=rss-fc39e28d7e52------2)
 - [Analyzing AI Incidents: Insights from the AI Incident Database](https://santosomar.medium.com/analyzing-ai-incidents-insights-from-the-ai-incident-database-c472f5a3a49b?source=rss-fc39e28d7e52------2)
 - [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://santosomar.medium.com/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199?source=rss-fc39e28d7e52------2)
 - [Fine Tuning AI Models — the Easy Way](https://santosomar.medium.com/fine-tuning-ai-models-the-easy-way-4a2e7d00cdee?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [What is the Coalition for Secure AI &lpar;CoSAI&rpar;?](https://santosomar.medium.com/what-is-the-coalition-for-secure-ai-cosai-cf72ef67b601?source=rss-fc39e28d7e52------2)
 - [LangGraph Cloud is Pretty Impressive](https://santosomar.medium.com/langgraph-cloud-is-pretty-impressive-5e4a5db2089c?source=rss-fc39e28d7e52------2)
 - [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; and CriticGPT](https://santosomar.medium.com/reinforcement-learning-from-human-feedback-rlhf-and-criticgpt-1e19a9fc6d2e?source=rss-fc39e28d7e52------2)
-- [Comparing RAG, RAG Fusion, with RAPTOR: Different AI Retrieval-Augmented Implementations](https://santosomar.medium.com/comparing-rag-rag-fusion-with-raptor-different-ai-retrieval-augmented-implementations-1aa76fce6a5c?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
