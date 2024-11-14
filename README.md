@@ -17,6 +17,8 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing Generative AI Video Course](https://santosomar.medium.com/securing-generative-ai-video-course-91b9383f9d7a?source=rss-fc39e28d7e52------2)
+- [AI-Enabled Programming, Networking, and Cybersecurity Course](https://santosomar.medium.com/ai-enabled-programming-networking-and-cybersecurity-course-b93b4d4af814?source=rss-fc39e28d7e52------2)
 - [Using AI and YARA](https://santosomar.medium.com/using-ai-and-yara-e932a0f1a272?source=rss-fc39e28d7e52------2)
 - [Analyzing AI Incidents: Insights from the AI Incident Database](https://santosomar.medium.com/analyzing-ai-incidents-insights-from-the-ai-incident-database-c472f5a3a49b?source=rss-fc39e28d7e52------2)
 - [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://santosomar.medium.com/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199?source=rss-fc39e28d7e52------2)
@@ -25,8 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Understanding the SPDX 3.0 AI BOM Support](https://santosomar.medium.com/understanding-the-spdx-3-0-ai-bom-support-7f3dbdd28345?source=rss-fc39e28d7e52------2)
 - [DEF CON 32 Red Team Village Activities](https://santosomar.medium.com/def-con-32-red-team-village-activities-e4e20895df37?source=rss-fc39e28d7e52------2)
 - [What is the Coalition for Secure AI &lpar;CoSAI&rpar;?](https://santosomar.medium.com/what-is-the-coalition-for-secure-ai-cosai-cf72ef67b601?source=rss-fc39e28d7e52------2)
-- [LangGraph Cloud is Pretty Impressive](https://santosomar.medium.com/langgraph-cloud-is-pretty-impressive-5e4a5db2089c?source=rss-fc39e28d7e52------2)
-- [Reinforcement Learning from Human Feedback &lpar;RLHF&rpar; and CriticGPT](https://santosomar.medium.com/reinforcement-learning-from-human-feedback-rlhf-and-criticgpt-1e19a9fc6d2e?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
