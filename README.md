@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Open-Interpreter for Ethical Hacking](https://santosomar.medium.com/using-open-interpreter-to-interact-with-recon-tools-0459e2430d0a?source=rss-fc39e28d7e52------2)
 - [Continuing Momentum in the World of Automated Vulnerability Disclosure: Upcoming OASIS CSAF Events](https://santosomar.medium.com/continuing-momentum-in-the-world-of-automated-vulnerability-disclosure-upcoming-oasis-csaf-events-cdb06aea47a9?source=rss-fc39e28d7e52------2)
 - [Securing Generative AI Video Course](https://santosomar.medium.com/securing-generative-ai-video-course-91b9383f9d7a?source=rss-fc39e28d7e52------2)
 - [AI-Enabled Programming, Networking, and Cybersecurity Course](https://santosomar.medium.com/ai-enabled-programming-networking-and-cybersecurity-course-b93b4d4af814?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Fine Tuning AI Models — the Easy Way](https://santosomar.medium.com/fine-tuning-ai-models-the-easy-way-4a2e7d00cdee?source=rss-fc39e28d7e52------2)
 - [What NIST’s Post-Quantum Cryptography Standards Bring to the Table — InformationWeek Podcast](https://santosomar.medium.com/what-nists-post-quantum-cryptography-standards-bring-to-the-table-informationweek-podcast-d399e22a0167?source=rss-fc39e28d7e52------2)
 - [Understanding the SPDX 3.0 AI BOM Support](https://santosomar.medium.com/understanding-the-spdx-3-0-ai-bom-support-7f3dbdd28345?source=rss-fc39e28d7e52------2)
-- [DEF CON 32 Red Team Village Activities](https://santosomar.medium.com/def-con-32-red-team-village-activities-e4e20895df37?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
