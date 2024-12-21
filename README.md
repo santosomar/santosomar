@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [BoN Jailbreaking Technique from Anthropic](https://santosomar.medium.com/bon-jailbreaking-technique-from-anthropic-595ef0e43f35?source=rss-fc39e28d7e52------2)
 - [Why Writing Regularly — Even in Private — Is One of the Best Investments You Can Make in Yourself](https://santosomar.medium.com/why-writing-regularly-even-in-private-is-one-of-the-best-investments-you-can-make-in-yourself-ef205d39e953?source=rss-fc39e28d7e52------2)
 - [Using Open-Interpreter for Ethical Hacking](https://santosomar.medium.com/using-open-interpreter-to-interact-with-recon-tools-0459e2430d0a?source=rss-fc39e28d7e52------2)
 - [Continuing Momentum in the World of Automated Vulnerability Disclosure: Upcoming OASIS CSAF Events](https://santosomar.medium.com/continuing-momentum-in-the-world-of-automated-vulnerability-disclosure-upcoming-oasis-csaf-events-cdb06aea47a9?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Analyzing AI Incidents: Insights from the AI Incident Database](https://santosomar.medium.com/analyzing-ai-incidents-insights-from-the-ai-incident-database-c472f5a3a49b?source=rss-fc39e28d7e52------2)
 - [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://santosomar.medium.com/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199?source=rss-fc39e28d7e52------2)
 - [Fine Tuning AI Models — the Easy Way](https://santosomar.medium.com/fine-tuning-ai-models-the-easy-way-4a2e7d00cdee?source=rss-fc39e28d7e52------2)
-- [What NIST’s Post-Quantum Cryptography Standards Bring to the Table — InformationWeek Podcast](https://santosomar.medium.com/what-nists-post-quantum-cryptography-standards-bring-to-the-table-informationweek-podcast-d399e22a0167?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
