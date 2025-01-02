@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Terraform to Deploy Ollama + Open WebUI on AWS](https://santosomar.medium.com/using-terraform-to-deploy-ollama-open-webui-on-aws-b723b4f1bbe6?source=rss-fc39e28d7e52------2)
 - [Cisco Modeling Labs is Now Free for Up-to-5 Nodes](https://santosomar.medium.com/cisco-modeling-labs-is-now-free-for-up-to-5-nodes-805102aaf6ed?source=rss-fc39e28d7e52------2)
 - [BoN Jailbreaking Technique from Anthropic](https://santosomar.medium.com/bon-jailbreaking-technique-from-anthropic-595ef0e43f35?source=rss-fc39e28d7e52------2)
 - [Why Writing Regularly — Even in Private — Is One of the Best Investments You Can Make in Yourself](https://santosomar.medium.com/why-writing-regularly-even-in-private-is-one-of-the-best-investments-you-can-make-in-yourself-ef205d39e953?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [AI-Enabled Programming, Networking, and Cybersecurity Course](https://santosomar.medium.com/ai-enabled-programming-networking-and-cybersecurity-course-b93b4d4af814?source=rss-fc39e28d7e52------2)
 - [Using AI and YARA](https://santosomar.medium.com/using-ai-and-yara-e932a0f1a272?source=rss-fc39e28d7e52------2)
 - [Analyzing AI Incidents: Insights from the AI Incident Database](https://santosomar.medium.com/analyzing-ai-incidents-insights-from-the-ai-incident-database-c472f5a3a49b?source=rss-fc39e28d7e52------2)
-- [Hacking and Bug Bounty AI-Powered Prompt Generation and A Few Notes on Agentic Hacking Systems](https://santosomar.medium.com/hacking-and-bug-bounty-ai-powered-prompt-generation-and-a-few-notes-on-hacking-agentic-systems-a569e4511199?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
