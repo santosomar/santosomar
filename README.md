@@ -17,6 +17,8 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
+- [RAGFlow an Open-Source Retrieval-Augmented Generation &lpar;RAG&rpar; Engine](https://santosomar.medium.com/ragflow-an-open-source-retrieval-augmented-generation-rag-engine-6b903005a032?source=rss-fc39e28d7e52------2)
 - [Using Terraform to Deploy Ollama + Open WebUI on AWS](https://santosomar.medium.com/using-terraform-to-deploy-ollama-open-webui-on-aws-b723b4f1bbe6?source=rss-fc39e28d7e52------2)
 - [Cisco Modeling Labs is Now Free for Up-to-5 Nodes](https://santosomar.medium.com/cisco-modeling-labs-is-now-free-for-up-to-5-nodes-805102aaf6ed?source=rss-fc39e28d7e52------2)
 - [BoN Jailbreaking Technique from Anthropic](https://santosomar.medium.com/bon-jailbreaking-technique-from-anthropic-595ef0e43f35?source=rss-fc39e28d7e52------2)
@@ -25,8 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Continuing Momentum in the World of Automated Vulnerability Disclosure: Upcoming OASIS CSAF Events](https://santosomar.medium.com/continuing-momentum-in-the-world-of-automated-vulnerability-disclosure-upcoming-oasis-csaf-events-cdb06aea47a9?source=rss-fc39e28d7e52------2)
 - [Securing Generative AI Video Course](https://santosomar.medium.com/securing-generative-ai-video-course-91b9383f9d7a?source=rss-fc39e28d7e52------2)
 - [AI-Enabled Programming, Networking, and Cybersecurity Course](https://santosomar.medium.com/ai-enabled-programming-networking-and-cybersecurity-course-b93b4d4af814?source=rss-fc39e28d7e52------2)
-- [Using AI and YARA](https://santosomar.medium.com/using-ai-and-yara-e932a0f1a272?source=rss-fc39e28d7e52------2)
-- [Analyzing AI Incidents: Insights from the AI Incident Database](https://santosomar.medium.com/analyzing-ai-incidents-insights-from-the-ai-incident-database-c472f5a3a49b?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
