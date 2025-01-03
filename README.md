@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using the AIChat CLI Tool](https://santosomar.medium.com/using-the-aichat-cli-tool-3faf08da4a21?source=rss-fc39e28d7e52------2)
 - [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
 - [RAGFlow an Open-Source Retrieval-Augmented Generation &lpar;RAG&rpar; Engine](https://santosomar.medium.com/ragflow-an-open-source-retrieval-augmented-generation-rag-engine-6b903005a032?source=rss-fc39e28d7e52------2)
 - [Using Terraform to Deploy Ollama + Open WebUI on AWS](https://santosomar.medium.com/using-terraform-to-deploy-ollama-open-webui-on-aws-b723b4f1bbe6?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Using Open-Interpreter for Ethical Hacking](https://santosomar.medium.com/using-open-interpreter-to-interact-with-recon-tools-0459e2430d0a?source=rss-fc39e28d7e52------2)
 - [Continuing Momentum in the World of Automated Vulnerability Disclosure: Upcoming OASIS CSAF Events](https://santosomar.medium.com/continuing-momentum-in-the-world-of-automated-vulnerability-disclosure-upcoming-oasis-csaf-events-cdb06aea47a9?source=rss-fc39e28d7e52------2)
 - [Securing Generative AI Video Course](https://santosomar.medium.com/securing-generative-ai-video-course-91b9383f9d7a?source=rss-fc39e28d7e52------2)
-- [AI-Enabled Programming, Networking, and Cybersecurity Course](https://santosomar.medium.com/ai-enabled-programming-networking-and-cybersecurity-course-b93b4d4af814?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
