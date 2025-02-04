@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Evolution of Cybersecurity Vulnerability Management &lpar;2019–2024&rpar;](https://santosomar.medium.com/evolution-of-cybersecurity-vulnerability-management-2019-2024-fec8326331dd?source=rss-fc39e28d7e52------2)
 - [The AI Security Landscape in 2025](https://santosomar.medium.com/the-ai-security-landscape-in-2025-4add2123e045?source=rss-fc39e28d7e52------2)
 - [Using the AIChat CLI Tool](https://santosomar.medium.com/using-the-aichat-cli-tool-3faf08da4a21?source=rss-fc39e28d7e52------2)
 - [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [BoN Jailbreaking Technique from Anthropic](https://santosomar.medium.com/bon-jailbreaking-technique-from-anthropic-595ef0e43f35?source=rss-fc39e28d7e52------2)
 - [Why Writing Regularly — Even in Private — Is One of the Best Investments You Can Make in Yourself](https://santosomar.medium.com/why-writing-regularly-even-in-private-is-one-of-the-best-investments-you-can-make-in-yourself-ef205d39e953?source=rss-fc39e28d7e52------2)
 - [Using Open-Interpreter for Ethical Hacking](https://santosomar.medium.com/using-open-interpreter-to-interact-with-recon-tools-0459e2430d0a?source=rss-fc39e28d7e52------2)
-- [Continuing Momentum in the World of Automated Vulnerability Disclosure: Upcoming OASIS CSAF Events](https://santosomar.medium.com/continuing-momentum-in-the-world-of-automated-vulnerability-disclosure-upcoming-oasis-csaf-events-cdb06aea47a9?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
