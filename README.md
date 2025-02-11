@@ -17,6 +17,8 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
+- [AI Algorithmic Red Teaming Tools, Resources, and Mindmap](https://santosomar.medium.com/ai-algorithmic-red-teaming-tools-mindmap-1c8b35833618?source=rss-fc39e28d7e52------2)
 - [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://santosomar.medium.com/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
 - [Evolution of Cybersecurity Vulnerability Management &lpar;2019–2024&rpar;](https://santosomar.medium.com/evolution-of-cybersecurity-vulnerability-management-2019-2024-fec8326331dd?source=rss-fc39e28d7e52------2)
 - [The AI Security Landscape in 2025](https://santosomar.medium.com/the-ai-security-landscape-in-2025-4add2123e045?source=rss-fc39e28d7e52------2)
@@ -25,8 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [RAGFlow an Open-Source Retrieval-Augmented Generation &lpar;RAG&rpar; Engine](https://santosomar.medium.com/ragflow-an-open-source-retrieval-augmented-generation-rag-engine-6b903005a032?source=rss-fc39e28d7e52------2)
 - [Using Terraform to Deploy Ollama + Open WebUI on AWS](https://santosomar.medium.com/using-terraform-to-deploy-ollama-open-webui-on-aws-b723b4f1bbe6?source=rss-fc39e28d7e52------2)
 - [Cisco Modeling Labs is Now Free for Up-to-5 Nodes](https://santosomar.medium.com/cisco-modeling-labs-is-now-free-for-up-to-5-nodes-805102aaf6ed?source=rss-fc39e28d7e52------2)
-- [BoN Jailbreaking Technique from Anthropic](https://santosomar.medium.com/bon-jailbreaking-technique-from-anthropic-595ef0e43f35?source=rss-fc39e28d7e52------2)
-- [Why Writing Regularly — Even in Private — Is One of the Best Investments You Can Make in Yourself](https://santosomar.medium.com/why-writing-regularly-even-in-private-is-one-of-the-best-investments-you-can-make-in-yourself-ef205d39e953?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
