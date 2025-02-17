@@ -17,6 +17,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
 - [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
 - [AI Algorithmic Red Teaming Tools, Resources, and Mindmap](https://santosomar.medium.com/ai-algorithmic-red-teaming-tools-mindmap-1c8b35833618?source=rss-fc39e28d7e52------2)
 - [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://santosomar.medium.com/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
@@ -26,7 +27,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
 - [RAGFlow an Open-Source Retrieval-Augmented Generation &lpar;RAG&rpar; Engine](https://santosomar.medium.com/ragflow-an-open-source-retrieval-augmented-generation-rag-engine-6b903005a032?source=rss-fc39e28d7e52------2)
 - [Using Terraform to Deploy Ollama + Open WebUI on AWS](https://santosomar.medium.com/using-terraform-to-deploy-ollama-open-webui-on-aws-b723b4f1bbe6?source=rss-fc39e28d7e52------2)
-- [Cisco Modeling Labs is Now Free for Up-to-5 Nodes](https://santosomar.medium.com/cisco-modeling-labs-is-now-free-for-up-to-5-nodes-805102aaf6ed?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
