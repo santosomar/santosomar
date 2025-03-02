@@ -18,12 +18,12 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Comparison of Deep Research AI Agents](https://aisecuritychronicles.org/a-comparison-of-deep-research-ai-agents-52492ee47ca7?source=rss-fc39e28d7e52------2)
-- [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
+- [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://medium.com/ai-security-hub/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
 - [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
 - [AI Algorithmic Red Teaming Tools, Resources, and Mindmap](https://santosomar.medium.com/ai-algorithmic-red-teaming-tools-mindmap-1c8b35833618?source=rss-fc39e28d7e52------2)
-- [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://santosomar.medium.com/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
-- [Evolution of Cybersecurity Vulnerability Management &lpar;2019–2024&rpar;](https://santosomar.medium.com/evolution-of-cybersecurity-vulnerability-management-2019-2024-fec8326331dd?source=rss-fc39e28d7e52------2)
-- [The AI Security Landscape in 2025](https://santosomar.medium.com/the-ai-security-landscape-in-2025-4add2123e045?source=rss-fc39e28d7e52------2)
+- [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://ai.plainenglish.io/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
+- [Evolution of Cybersecurity Vulnerability Management &lpar;2019–2024&rpar;](https://aisecuritychronicles.org/evolution-of-cybersecurity-vulnerability-management-2019-2024-fec8326331dd?source=rss-fc39e28d7e52------2)
+- [The AI Security Landscape in 2025](https://medium.com/ai-security-hub/the-ai-security-landscape-in-2025-4add2123e045?source=rss-fc39e28d7e52------2)
 - [Using the AIChat CLI Tool](https://santosomar.medium.com/using-the-aichat-cli-tool-3faf08da4a21?source=rss-fc39e28d7e52------2)
 - [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
 - [RAGFlow an Open-Source Retrieval-Augmented Generation &lpar;RAG&rpar; Engine](https://santosomar.medium.com/ragflow-an-open-source-retrieval-augmented-generation-rag-engine-6b903005a032?source=rss-fc39e28d7e52------2)
