@@ -8,12 +8,6 @@ Omar Santos is a Distinguished Engineer at Cisco focusing on artificial intellig
 
 Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcertification.com/search/index.aspx?query=omar+santos), and [many academic research papers](https://www.researchgate.net/profile/Omar_Santos3). Omar is a renowned expert in ethical hacking, vulnerability research, incident response, and AI security. He employs his deep understanding of these disciplines to help organizations stay ahead of emerging threats. His dedication to cybersecurity has made a significant impact on technology standards, businesses, academic institutions, government agencies, and other entities striving to improve their cybersecurity programs. Prior to Cisco, Omar served in the United States Marines focusing on the deployment, testing, and maintenance of Command, Control, Communications, Computer and Intelligence (C4I) systems.
 
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=santosomar&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=santosomar&theme=dark&hide_border=true" width = 400>
-</p>
-
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
