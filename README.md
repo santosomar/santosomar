@@ -13,7 +13,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 <!-- BLOG-POST-LIST:START -->
 - [Video Recording: AI and Cybersecurity — Find Yourself in the Future](https://aisecuritychronicles.org/video-recording-ai-and-cybersecurity-find-yourself-in-the-future-ed1b8df14ee8?source=rss-fc39e28d7e52------2)
 - [A Comparison of Deep Research AI Agents](https://aisecuritychronicles.org/a-comparison-of-deep-research-ai-agents-52492ee47ca7?source=rss-fc39e28d7e52------2)
-- [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://medium.com/ai-security-hub/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
+- [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
 - [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
 - [AI Algorithmic Red Teaming Tools, Resources, and Mindmap](https://santosomar.medium.com/ai-algorithmic-red-teaming-tools-mindmap-1c8b35833618?source=rss-fc39e28d7e52------2)
 - [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://ai.plainenglish.io/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
