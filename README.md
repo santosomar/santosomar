@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Agentic RAG with MCP Servers: Technical Implementation Guide](https://santosomar.medium.com/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442?source=rss-fc39e28d7e52------2)
 - [Video Recording: AI and Cybersecurity — Find Yourself in the Future](https://aisecuritychronicles.org/video-recording-ai-and-cybersecurity-find-yourself-in-the-future-ed1b8df14ee8?source=rss-fc39e28d7e52------2)
 - [A Comparison of Deep Research AI Agents](https://aisecuritychronicles.org/a-comparison-of-deep-research-ai-agents-52492ee47ca7?source=rss-fc39e28d7e52------2)
 - [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Evolution of Cybersecurity Vulnerability Management &lpar;2019–2024&rpar;](https://aisecuritychronicles.org/evolution-of-cybersecurity-vulnerability-management-2019-2024-fec8326331dd?source=rss-fc39e28d7e52------2)
 - [The AI Security Landscape in 2025](https://medium.com/ai-security-hub/the-ai-security-landscape-in-2025-4add2123e045?source=rss-fc39e28d7e52------2)
 - [Using the AIChat CLI Tool](https://santosomar.medium.com/using-the-aichat-cli-tool-3faf08da4a21?source=rss-fc39e28d7e52------2)
-- [Enchanted and Ollama](https://santosomar.medium.com/enchanted-and-ollama-e5cf8831b985?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
