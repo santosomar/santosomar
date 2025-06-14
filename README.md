@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications](https://santosomar.medium.com/mastering-prompt-engineering-for-langchain-langgraph-and-ai-agent-applications-e26d85a55f13?source=rss-fc39e28d7e52------2)
 - [My Take on a New Identity Framework for AI Agents](https://santosomar.medium.com/sss-71d718942091?source=rss-fc39e28d7e52------2)
 - [Comparing MCP, A2A, and AGNTCY in the AI Agent Ecosystem](https://santosomar.medium.com/comparing-mcp-a2a-and-agntcy-in-the-ai-agent-ecosystem-f3234b85c475?source=rss-fc39e28d7e52------2)
 - [Foundation-Sec-8B: An Open-Source LLM for Cybersecurity](https://santosomar.medium.com/foundation-sec-8b-an-open-source-llm-for-cybersecurity-093a32531c59?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
 - [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
 - [AI Algorithmic Red Teaming Tools, Resources, and Mindmap](https://santosomar.medium.com/ai-algorithmic-red-teaming-tools-mindmap-1c8b35833618?source=rss-fc39e28d7e52------2)
-- [Technical Comparison of AutoGen, CrewAI, LangGraph, and OpenAI Swarm](https://ai.plainenglish.io/technical-comparison-of-autogen-crewai-langgraph-and-openai-swarm-1e4e9571d725?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
