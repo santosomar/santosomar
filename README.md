@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security at Scale: Why Humans Must Evolve with AI](https://santosomar.medium.com/security-at-scale-why-humans-must-evolve-with-ai-981a24cdf46f?source=rss-fc39e28d7e52------2)
 - [An In-Depth Look at Open-Weight Transformer Models](https://santosomar.medium.com/an-in-depth-look-at-open-weight-transformer-models-94502e3d5f12?source=rss-fc39e28d7e52------2)
 - [Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications](https://santosomar.medium.com/mastering-prompt-engineering-for-langchain-langgraph-and-ai-agent-applications-e26d85a55f13?source=rss-fc39e28d7e52------2)
 - [My Take on a New Identity Framework for AI Agents](https://santosomar.medium.com/sss-71d718942091?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Video Recording: AI and Cybersecurity — Find Yourself in the Future](https://aisecuritychronicles.org/video-recording-ai-and-cybersecurity-find-yourself-in-the-future-ed1b8df14ee8?source=rss-fc39e28d7e52------2)
 - [A Comparison of Deep Research AI Agents](https://aisecuritychronicles.org/a-comparison-of-deep-research-ai-agents-52492ee47ca7?source=rss-fc39e28d7e52------2)
 - [Privacy-Preserving &amp; AI Federated Learning: Exploring OpenFL, CrypTen, PySyft, TensorFlow Privacy…](https://santosomar.medium.com/privacy-preserving-federated-learning-21182905c00d?source=rss-fc39e28d7e52------2)
-- [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Action, and Floki](https://santosomar.medium.com/agentic-cybersecurity-tools-122374ce942b?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
