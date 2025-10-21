@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard](https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2)
 - [Using Project CodeGuard to Secure the Future of AI-Generated Code](https://santosomar.medium.com/using-project-codeguard-to-secure-the-future-of-ai-generated-code-83bf760c9deb?source=rss-fc39e28d7e52------2)
 - [Security at Scale: Why Humans Must Evolve with AI](https://santosomar.medium.com/security-at-scale-why-humans-must-evolve-with-ai-981a24cdf46f?source=rss-fc39e28d7e52------2)
 - [An In-Depth Look at Open-Weight Transformer Models](https://santosomar.medium.com/an-in-depth-look-at-open-weight-transformer-models-94502e3d5f12?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Foundation-Sec-8B: An Open-Source LLM for Cybersecurity](https://santosomar.medium.com/foundation-sec-8b-an-open-source-llm-for-cybersecurity-093a32531c59?source=rss-fc39e28d7e52------2)
 - [Integrating Agentic RAG with MCP Servers: Technical Implementation Guide](https://santosomar.medium.com/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442?source=rss-fc39e28d7e52------2)
 - [Video Recording: AI and Cybersecurity — Find Yourself in the Future](https://aisecuritychronicles.org/video-recording-ai-and-cybersecurity-find-yourself-in-the-future-ed1b8df14ee8?source=rss-fc39e28d7e52------2)
-- [A Comparison of Deep Research AI Agents](https://aisecuritychronicles.org/a-comparison-of-deep-research-ai-agents-52492ee47ca7?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
