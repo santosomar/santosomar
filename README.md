@@ -11,6 +11,8 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Operationalizing the CoSAI Risk Map &lpar;CoSAI-RM&rpar;](https://santosomar.medium.com/operationalizing-the-cosai-risk-map-cosai-rm-c47a6db128c6?source=rss-fc39e28d7e52------2)
+- [Project CodeGuard Livestream and Demos](https://santosomar.medium.com/project-codeguard-livestream-and-demos-a82fb5f44d24?source=rss-fc39e28d7e52------2)
 - [Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard](https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2)
 - [Using Project CodeGuard to Secure the Future of AI-Generated Code](https://santosomar.medium.com/using-project-codeguard-to-secure-the-future-of-ai-generated-code-83bf760c9deb?source=rss-fc39e28d7e52------2)
 - [Security at Scale: Why Humans Must Evolve with AI](https://santosomar.medium.com/security-at-scale-why-humans-must-evolve-with-ai-981a24cdf46f?source=rss-fc39e28d7e52------2)
@@ -19,8 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [My Take on a New Identity Framework for AI Agents](https://santosomar.medium.com/sss-71d718942091?source=rss-fc39e28d7e52------2)
 - [Comparing MCP, A2A, and AGNTCY in the AI Agent Ecosystem](https://santosomar.medium.com/comparing-mcp-a2a-and-agntcy-in-the-ai-agent-ecosystem-f3234b85c475?source=rss-fc39e28d7e52------2)
 - [Foundation-Sec-8B: An Open-Source LLM for Cybersecurity](https://santosomar.medium.com/foundation-sec-8b-an-open-source-llm-for-cybersecurity-093a32531c59?source=rss-fc39e28d7e52------2)
-- [Integrating Agentic RAG with MCP Servers: Technical Implementation Guide](https://santosomar.medium.com/integrating-agentic-rag-with-mcp-servers-technical-implementation-guide-1aba8fd4e442?source=rss-fc39e28d7e52------2)
-- [Video Recording: AI and Cybersecurity — Find Yourself in the Future](https://aisecuritychronicles.org/video-recording-ai-and-cybersecurity-find-yourself-in-the-future-ed1b8df14ee8?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
