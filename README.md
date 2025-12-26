@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI SOC Analyst Agent with Splunk MCP, LangChain, and LangGraph](https://santosomar.medium.com/building-an-ai-powered-soc-analyst-with-splunk-mcp-langchain-and-langgraph-22847005eaf1?source=rss-fc39e28d7e52------2)
 - [Operationalizing the CoSAI Risk Map &lpar;CoSAI-RM&rpar;](https://santosomar.medium.com/operationalizing-the-cosai-risk-map-cosai-rm-c47a6db128c6?source=rss-fc39e28d7e52------2)
 - [Project CodeGuard Livestream and Demos](https://santosomar.medium.com/project-codeguard-livestream-and-demos-a82fb5f44d24?source=rss-fc39e28d7e52------2)
 - [Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard](https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications](https://santosomar.medium.com/mastering-prompt-engineering-for-langchain-langgraph-and-ai-agent-applications-e26d85a55f13?source=rss-fc39e28d7e52------2)
 - [My Take on a New Identity Framework for AI Agents](https://santosomar.medium.com/sss-71d718942091?source=rss-fc39e28d7e52------2)
 - [Comparing MCP, A2A, and AGNTCY in the AI Agent Ecosystem](https://santosomar.medium.com/comparing-mcp-a2a-and-agntcy-in-the-ai-agent-ecosystem-f3234b85c475?source=rss-fc39e28d7e52------2)
-- [Foundation-Sec-8B: An Open-Source LLM for Cybersecurity](https://santosomar.medium.com/foundation-sec-8b-an-open-source-llm-for-cybersecurity-093a32531c59?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
