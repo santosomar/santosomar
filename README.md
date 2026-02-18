@@ -11,6 +11,8 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Just Wrote a Book on Agentic AI for Cybersecurity](https://santosomar.medium.com/why-i-just-wrote-a-book-on-agentic-ai-for-cybersecurity-d070506b85c0?source=rss-fc39e28d7e52------2)
+- [Beyond the Hype of OpenClaw: A Threat Model for OpenClaw &lpar;using MAESTRO&rpar;](https://santosomar.medium.com/beyond-the-hype-of-openclaw-a-threat-model-for-openclaw-using-maestro-b95ca422bff8?source=rss-fc39e28d7e52------2)
 - [The Insane Number of AI Models Created in 2025](https://santosomar.medium.com/the-insane-number-of-ai-models-created-in-2025-0f1ffdf2519a?source=rss-fc39e28d7e52------2)
 - [Building an AI SOC Analyst Agent with Splunk MCP, LangChain, and LangGraph](https://santosomar.medium.com/building-an-ai-powered-soc-analyst-with-splunk-mcp-langchain-and-langgraph-22847005eaf1?source=rss-fc39e28d7e52------2)
 - [Operationalizing the CoSAI Risk Map &lpar;CoSAI-RM&rpar;](https://santosomar.medium.com/operationalizing-the-cosai-risk-map-cosai-rm-c47a6db128c6?source=rss-fc39e28d7e52------2)
@@ -19,8 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Using Project CodeGuard to Secure the Future of AI-Generated Code](https://santosomar.medium.com/using-project-codeguard-to-secure-the-future-of-ai-generated-code-83bf760c9deb?source=rss-fc39e28d7e52------2)
 - [Security at Scale: Why Humans Must Evolve with AI](https://santosomar.medium.com/security-at-scale-why-humans-must-evolve-with-ai-981a24cdf46f?source=rss-fc39e28d7e52------2)
 - [An In-Depth Look at Open-Weight Transformer Models](https://santosomar.medium.com/an-in-depth-look-at-open-weight-transformer-models-94502e3d5f12?source=rss-fc39e28d7e52------2)
-- [Mastering Prompt Engineering for LangChain, LangGraph, and AI Agent Applications](https://santosomar.medium.com/mastering-prompt-engineering-for-langchain-langgraph-and-ai-agent-applications-e26d85a55f13?source=rss-fc39e28d7e52------2)
-- [My Take on a New Identity Framework for AI Agents](https://santosomar.medium.com/sss-71d718942091?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
