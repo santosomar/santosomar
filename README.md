@@ -11,6 +11,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Teaching AI Agents to Speak ATT&amp;CK with AI Agent Skills](https://santosomar.medium.com/teaching-ai-agents-to-speak-att-ck-with-agent-skills-e86883a606b6?source=rss-fc39e28d7e52------2)
 - [10 Great Free AI Learning Resources for 2026](https://santosomar.medium.com/10-great-free-ai-learning-resources-for-2026-45c7d6de6867?source=rss-fc39e28d7e52------2)
 - [Why I Just Wrote a Book on Agentic AI for Cybersecurity](https://santosomar.medium.com/why-i-just-wrote-a-book-on-agentic-ai-for-cybersecurity-d070506b85c0?source=rss-fc39e28d7e52------2)
 - [Beyond the Hype of OpenClaw: A Threat Model for OpenClaw &lpar;using MAESTRO&rpar;](https://santosomar.medium.com/beyond-the-hype-of-openclaw-a-threat-model-for-openclaw-using-maestro-b95ca422bff8?source=rss-fc39e28d7e52------2)
@@ -20,7 +21,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Project CodeGuard Livestream and Demos](https://santosomar.medium.com/project-codeguard-livestream-and-demos-a82fb5f44d24?source=rss-fc39e28d7e52------2)
 - [Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard](https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2)
 - [Using Project CodeGuard to Secure the Future of AI-Generated Code](https://santosomar.medium.com/using-project-codeguard-to-secure-the-future-of-ai-generated-code-83bf760c9deb?source=rss-fc39e28d7e52------2)
-- [Security at Scale: Why Humans Must Evolve with AI](https://santosomar.medium.com/security-at-scale-why-humans-must-evolve-with-ai-981a24cdf46f?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
