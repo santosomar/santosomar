@@ -12,6 +12,7 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 
 ## Omar's Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents for Cybersecurity: A Guided Tour of a Repository with Tons of Resources and Examples](https://santosomar.medium.com/ai-agents-for-cybersecurity-a-guided-tour-of-a-repository-with-tons-of-resources-and-examples-6b27481cdb30?source=rss-fc39e28d7e52------2)
 - [loop: The Claude Code Command That Is Changing the Conversation about Software Engineering](https://santosomar.medium.com/loop-the-claude-code-command-that-is-changing-the-conversation-about-software-engineering-46a16eb4be30?source=rss-fc39e28d7e52------2)
 - [Teaching AI Agents to Speak ATT&amp;CK with AI Agent Skills](https://santosomar.medium.com/teaching-ai-agents-to-speak-att-ck-with-agent-skills-e86883a606b6?source=rss-fc39e28d7e52------2)
 - [10 Great Free AI Learning Resources for 2026](https://santosomar.medium.com/10-great-free-ai-learning-resources-for-2026-45c7d6de6867?source=rss-fc39e28d7e52------2)
@@ -21,7 +22,6 @@ Omar is the author of [over 25 books, 21 video courses](https://www.pearsonitcer
 - [Building an AI SOC Analyst Agent with Splunk MCP, LangChain, and LangGraph](https://santosomar.medium.com/building-an-ai-powered-soc-analyst-with-splunk-mcp-langchain-and-langgraph-22847005eaf1?source=rss-fc39e28d7e52------2)
 - [Operationalizing the CoSAI Risk Map &lpar;CoSAI-RM&rpar;](https://santosomar.medium.com/operationalizing-the-cosai-risk-map-cosai-rm-c47a6db128c6?source=rss-fc39e28d7e52------2)
 - [Project CodeGuard Livestream and Demos](https://santosomar.medium.com/project-codeguard-livestream-and-demos-a82fb5f44d24?source=rss-fc39e28d7e52------2)
-- [Creating a Custom Code Security Claude Skill that Integrates with Project CodeGuard](https://santosomar.medium.com/creating-a-custom-code-security-claude-skill-that-integrates-with-project-codeguard-b1ed0a3e5c00?source=rss-fc39e28d7e52------2)
 <!-- BLOG-POST-LIST:END -->
 
 
